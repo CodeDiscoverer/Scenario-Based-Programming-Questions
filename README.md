@@ -3,9 +3,11 @@
 Welcome to the Scenario-Based Programming Questions repository! 🚀
 
 **Overview**
+
 This repository is a collection of scenario-based programming questions designed to help developers enhance their problem-solving and critical thinking skills. Each question presents a real-world scenario or problem, challenging you to write code that solves it effectively.
 
 **Why Scenario-Based Questions?**
+
 Scenario-based questions go beyond basic coding exercises by simulating real-world challenges. They encourage you to consider various factors, make decisions, and implement solutions that are not only correct but also efficient and maintainable. These questions are perfect for honing your coding abilities and preparing for technical interviews.
 
 **Features**
